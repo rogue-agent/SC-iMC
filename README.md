@@ -6,5 +6,9 @@ Building a computer that should store, fetch, decode, and execute values added i
 
 This is made for educational purposes.
 
-Requirements:
+# Requirements:
 Maybe: Minecraft version 1.19.2
+
+
+# Current version
+23.1.1
