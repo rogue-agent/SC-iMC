@@ -11,4 +11,4 @@ Maybe: Minecraft version 1.19.2
 
 
 # Current version
-23.1.1
+23.1.1 : 4 Bit RAM with clearing
