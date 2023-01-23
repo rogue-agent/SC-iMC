@@ -11,4 +11,6 @@ Maybe: Minecraft version 1.19.2
 
 
 # Current version
+23.1.2 : Able to count to 3 and store the value and output in order of lamps
+
 23.1.1 : 4 Bit RAM with clearing
